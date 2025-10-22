@@ -1,7 +1,7 @@
 
 # QOSF Mentorship Program - Task 2 Submission
 
-**Name:** Kristian Koci
+**Name:** Khrystian Koci
 **Date:** October 21, 2025  
 **Task:** Task 2 - Arbitrary Quantum State Preparation
 
@@ -89,4 +89,4 @@ I'm available for technical discussions about the implementation and happy to wa
 
 Thank you for considering my application. I look forward to the opportunity to learn through the QOSF mentorship program.
 
-Kristian 
+Khrystian 
